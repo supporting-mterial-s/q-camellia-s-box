@@ -4,7 +4,7 @@
 
 Camellia_S-Box_Clifford+T.cpp:
 
-			T-depth-3 implementation of the Camellia S-box;
+			T-depth-4 implementation of the Camellia S-box;
 
 Camellia_S-box_NCT-4.cpp:
 
